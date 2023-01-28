@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Biotech</li>
+    </mods>
+    <match Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[@Name="DeathrestBuildingHemogenFueled"]/comps/li[@Class="CompProperties_Refuelable"]/fuelConsumptionRate</xpath>
+        <value>
+            <fuelConsumptionRate>0.01</fuelConsumptionRate>
+        </value>
+    </match>
+  </Operation>
+</Patch>

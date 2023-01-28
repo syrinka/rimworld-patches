@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Ratkin Mechanoid Expaned</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Mech_KornblumeD7_RK"]/race/mechEnabledWorkTypes</xpath>
+        <value>
+            <li>Mining</li>
+        </value>
+    </match>
+  </Operation>
+</Patch>
