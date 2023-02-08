@@ -9,6 +9,8 @@ Some patches to ease the game.
     - Reduce Power Beam Absorption Dish size to (9,9)
 - > Ratkin Mechanoid Expaned
     - Kornblume D-7 can do mining
+- > Logistics_Mech
+    - Increase logistic's carrying capacity to 600 (150x4)
 
 to be continued...
 

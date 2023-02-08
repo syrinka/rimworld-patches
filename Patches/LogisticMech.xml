@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Logistics_Mechanoid</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="Mech_Logistic"]/statBases</xpath>
+        <value>
+            <CarryingCapacity>150</CarryingCapacity>
+        </value>
+    </match>
+  </Operation>
+</Patch>

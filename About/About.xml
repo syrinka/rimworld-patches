@@ -10,13 +10,9 @@
 		<li>Ludeon.RimWorld.Biotech</li>
 		<li>aRandomKiwi.PowerPP</li>
 		<li>DARKkai.RatkinMechanoidExpaned</li>
+		<li>pal5k.logisticsmechanoid</li>
 	</loadAfter>
 	<description>
 自用修正
-
-1. 原木不再老化
-2. [Biotech] 死眠设施耗血量大幅下调
-3. [Power++] 卫星能量接收器尺寸下调 (24,24) -> (9,9)
-4. [Ratkin Mechanoid Expaned] 矢车菊 D-7 获得采矿能力
 	</description>
 </ModMetaData>
