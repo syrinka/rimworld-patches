@@ -18,4 +18,4 @@ to be continued...
 
 All of these are just XML patches, in theory it can compatible with any other mod.
 
-Safe to add to mid-save. May not be safe to remove, I haven't tried.
+Safe to add to mid-save. Because I tweaked building's size, it may not be safe to remove.
